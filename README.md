@@ -1,2 +1,2 @@
 # athenas-co-debug
-Debugging log for Athenas Co.
+Athenas Co debugging logs and incident tracking system.
